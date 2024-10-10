@@ -1,0 +1,12 @@
+string method - allow us to manipulate and work with text.(strings)
+charAt() - return character of a string based on given index number.
+indexOf() - return a index number of first occerance of character.
+length - return length or total number of characters of a string.
+trim() - remove white-spacae from strings.
+toUppercase() - make the string uppercase.
+toLowerCase() - make the string lowercase.
+repeat() - repeat the string .it can takes also parameter.
+startwith() - return a boolean.it takes parameter.
+endwith() - return a boolean.it takes parameter.
+includes() - return a boolean.it takes parameter 
+replaceAll() replace a character inside the string.it takes two parameters.

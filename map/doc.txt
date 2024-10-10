@@ -1,0 +1,5 @@
+javascrpt map - is a array method.
+Create a new array from original array.
+does not change the size of original array.(unlike filter() method)
+accepts a callback and applies that function to each element of an array,
+then return a new array.

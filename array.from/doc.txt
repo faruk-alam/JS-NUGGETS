@@ -1,0 +1,5 @@
+Array.from() is a javascrpt array method.
+The Array.from() method creates a new Array from an array-like or iterable object.
+It provides a simple and concise way to convert various types of collections, such as NodeList, 
+HTMLCollection, Map, Set, and strings into arrays. This is particularly helpful when performing 
+array-specific operations on these non-array object
