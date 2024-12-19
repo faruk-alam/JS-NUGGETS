@@ -1,0 +1,11 @@
+{
+    "quokka.automaticRestart": true,
+    "quokka.codeClipAutoUpload": true,
+    "code-runner.saveAllFilesBeforeRun": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
+    "quokka.suppressExpirationNotifications": true,
+    "quokka.rollBackToPreviousGenerationUI": true,
+    "npm.enableRunFromFolder": true,
+    "microsoft-sovereign-cloud.environment": "USGovernment"
+}
