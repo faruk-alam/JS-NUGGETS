@@ -5,8 +5,7 @@ length - return length or total number of characters of a string.
 trim() - remove white-spacae from strings.
 toUppercase() - make the string uppercase.
 toLowerCase() - make the string lowercase.
-repeat() - repeat the string .it can takes also parameter.
-startwith() - return a boolean.it takes parameter.
+\startwith() - return a boolean.it takes parameter.
 endwith() - return a boolean.it takes parameter.
 includes() - return a boolean.it takes parameter 
 replaceAll() replace a character inside the string.it takes two parameters.
