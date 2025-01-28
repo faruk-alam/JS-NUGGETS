@@ -1,0 +1,7 @@
+// ES6 module - is an external file that contains reusable code.
+//              thats can contains variables, functions, classes, etc.
+//            that allows us to import and export code between files.
+
+// export - is a keyword that allows us to export code from a module.
+// import - is a keyword that allows us to import code from a module.
+
