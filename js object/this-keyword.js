@@ -1,5 +1,5 @@
-//this - keyword refers to the object,where "this" is used.It is used to access the properties and methods 
-// of an object. the object depends on immediate context.
+//this - keyword refers to the object,where "this" is used.It is used to access the properties 
+//  method of an object. the object depends on immediate context.
 // person.name = this.name;
 // "this" keyword does not work with arrow function.
 const person1 = {
